@@ -10,6 +10,6 @@ DownloadIstallTool(Python实现电脑端exe自动化工具下载安装Android ap
 
 ![image](https://github.com/user-attachments/assets/1e13794b-aaa3-43d8-9d10-fde2b2fa92c0)
 
-如果想直接使用工具，直接在编译文件夹下找到exe使用即可，也可以自己现在仓库代码编译使用exe，当然可以运行代码使用
+如果想直接使用工具，直接在编译文件夹下找到exe使用即可(exe文件太大了，push不上来)，也可以自己现在仓库代码编译使用exe，当然可以运行代码使用
 
 有需求请联系(wx)：BBKRjdeng 
